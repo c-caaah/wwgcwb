@@ -1,7 +1,7 @@
 baseURL = "https://example.com/"
 languageCode = "en-us"
 title = "Women Who Go Curitiba"
-theme = "mediumish-gohugo-theme"
+theme = "mediumish"
 summaryLength = 25
 copyright = "John Doe - All rights reserved"
 enableEmoji = true
@@ -30,7 +30,7 @@ publishDir = "docs"
   alertbar = false
 
 [params.social]
-  github = "<womenwhogocwb>"
+  github = "womenwhogocwb"
   linkedin = "<username>"
   twitter = "<username>"
   instagram = "<username>"
