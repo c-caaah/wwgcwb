@@ -1,0 +1,3 @@
+[submodule "theme/madiumish"]
+	path = theme/madiumish
+	url = https://github.com/womenwhogocwb/mediumish-gohugo-theme.git
