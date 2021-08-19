@@ -15,7 +15,7 @@ publishDir = "docs"
 
 [params.author]
   name = "Women Who Go Curitiba"
-  thumbnail = "/images/logo-wwgcwb.png.png"
+  thumbnail = "/images/logo-wwgcwb.png"
   description = "A comunidade que vos fala"
 
 [params.index]
