@@ -1,0 +1,53 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Women Who Go Curitiba"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+copyright = "John Doe - All rights reserved"
+enableEmoji = true
+publishDir = "docs"
+#disqusShortname = "your-shortname-here"
+#googleAnalytics = "UA-1XXXXXXX1-1"
+
+[params]
+  logo = "/images/logo-wwgcwb.png"
+  description ="WWGCWB"
+
+[params.author]
+  name = "Women Who Go Curitiba"
+  thumbnail = "/images/logo-wwgcwb.png.png"
+  description = "A comunidade que vos fala"
+
+[params.index]
+  picture = "/images/author.png"
+  title = "Whomen Who Go Curitiba"
+  subtitle = "✨ chapter de Curitiba do Women Who Go"
+  mdtext = '''
+💛 construindo uma comunidade de #golang mais diversa\
+**This textblock is a demonstration of the mdtext-param.**\
+### This is a markdown heading
+'''
+  alertbar = false
+
+[params.social]
+  github = "<womenwhogocwb>"
+  linkedin = "<username>"
+  twitter = "<username>"
+  instagram = "<username>"
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+[[menu.main]]
+    name = "About Me"
+    identifier = "about"
+    weight = 200
+    url = "/"
+[[menu.main]]
+    name = "Imprint"
+    identifier = "imprint"
+    weight = 200
+    url = "/static/imprint"
