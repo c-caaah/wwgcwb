@@ -1,5 +1,5 @@
 baseURL = "https://example.com/"
-languageCode = "en-us"
+languageCode = "pt-br"
 title = "Women Who Go Curitiba"
 theme = "mediumish"
 summaryLength = 25
@@ -10,22 +10,22 @@ publishDir = "docs"
 #googleAnalytics = "UA-1XXXXXXX1-1"
 
 [params]
-  logo = "/images/logo-wwgcwb.png"
-  description ="WWGCWB"
+  logo = "/images/logo.png"
+  description ="Comunidade de Golang de Curitiba"
 
 [params.author]
   name = "Women Who Go Curitiba"
-  thumbnail = "/images/logo-wwgcwb.png"
+  thumbnail = "/images/logo.png"
   description = "A comunidade que vos fala"
 
 [params.index]
-  picture = "/images/author.png"
+  picture = "/images/logo.png"
   title = "Whomen Who Go Curitiba"
   subtitle = "✨ chapter de Curitiba do Women Who Go"
   mdtext = '''
 💛 construindo uma comunidade de #golang mais diversa\
-**This textblock is a demonstration of the mdtext-param.**\
-### This is a markdown heading
+**ainda não sei o que colocar aqui.**\
+### yeeeeey!
 '''
   alertbar = false
 
