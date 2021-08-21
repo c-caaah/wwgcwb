@@ -2,7 +2,7 @@
 title: "Criando sites com Hugo e Netlify"
 date: 2020-03-16T11:40:11+02:00
 publishdate: 2020-03-11T11:40:11+02:00
-image: "/images/blog/8.jpg"
+image: "/images/blog/oficina-hugo.JPG"
 tags: ["hugo", "programação", "golang",]
 comments: true
 ---
@@ -40,7 +40,9 @@ $ sudo apt-get install hugo
 
 
 ## Chocolatey no Windows
+```bash
 $ choco install hugo -confirm
+```
 
 *O Chocolatey não vem instalado no windows, portanto deve ser instalado antes de usar este comando.
 Se preferir pode seguir a instalação manual (sem o chocolatey) que descrevo aqui.*
