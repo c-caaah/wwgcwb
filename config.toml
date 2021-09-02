@@ -31,9 +31,9 @@ publishDir = "docs"
 
 [params.social]
   github = "womenwhogocwb"
-  linkedin = "<username>"
-  twitter = "<username>"
-  instagram = "<username>"
+  linkedin = ""
+  twitter = "womenwhogocwb"
+  instagram = "womenwhogocwb"
 
 ## Main Menu
 [[menu.main]]
@@ -42,7 +42,7 @@ publishDir = "docs"
     identifier = "blog"
     url = "/blog"
 [[menu.main]]
-    name = "About Me"
+    name = "Sobre nós"
     identifier = "about"
     weight = 200
     url = "/"
