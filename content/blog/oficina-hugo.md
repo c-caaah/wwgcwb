@@ -2,7 +2,7 @@
 title: "Criando sites com Hugo e Netlify"
 date: 2020-03-16T11:40:11+02:00
 publishdate: 2020-03-11T11:40:11+02:00
-image: "/images/blog/oficina-hugo.JPG"
+image: "/images/blog/oficina-hugo.jpg"
 tags: ["hugo", "programação", "golang",]
 comments: true
 ---

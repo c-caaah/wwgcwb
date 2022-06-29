@@ -31,7 +31,7 @@ publishDir = "docs"
 
 [params.social]
   github = "womenwhogocwb"
-  linkedin = ""
+  linkedin = "womenwhogocwb"
   twitter = "womenwhogocwb"
   instagram = "womenwhogocwb"
 
