@@ -6,7 +6,7 @@ summaryLength = 25
 copyright = "John Doe - All rights reserved"
 enableEmoji = true
 publishDir = "docs"
-#disqusShortname = "your-shortname-here"
+#disqusShortname = "WWGCWB"
 #googleAnalytics = "UA-1XXXXXXX1-1"
 
 [params]
@@ -36,11 +36,7 @@ publishDir = "docs"
   instagram = "womenwhogocwb"
 
 ## Main Menu
-[[menu.main]]
-    name = "Blog"
-    weight = 100
-    identifier = "blog"
-    url = "/blog"
+
 [[menu.main]]
     name = "Sobre nós"
     identifier = "about"
