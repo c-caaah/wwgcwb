@@ -3,7 +3,7 @@ languageCode = "pt-br"
 title = "Women Who Go Curitiba"
 theme = "mediumish"
 summaryLength = 25
-copyright = "John Doe - All rights reserved"
+copyright = ".feito com 💜 por Cáh - All rights reserved"
 enableEmoji = true
 publishDir = "docs"
 #disqusShortname = "WWGCWB"
@@ -11,7 +11,7 @@ publishDir = "docs"
 
 [params]
   logo = "/images/logo.png"
-  description ="Comunidade de Golang de Curitiba"
+  description ="Comunidade de Golang de Curitiba para minoria de gênero"
 
 [params.author]
   name = "Women Who Go Curitiba"
