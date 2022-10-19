@@ -21,7 +21,7 @@ publishDir = "docs"
 [params.index]
   picture = "/images/logo.png"
   title = "Whomen Who Go Curitiba"
-  subtitle = "✨ chapter de Curitiba do Women Who Go"
+  subtitle = "✨ chapter de Curitiba do Women Who Go para minorias de gênero"
   mdtext = '''
 💛 construindo uma comunidade de #golang mais diversa\
 **ainda não sei o que colocar aqui.**\
@@ -39,11 +39,11 @@ publishDir = "docs"
 
 [[menu.main]]
     name = "Sobre nós"
-    identifier = "about"
+    identifier = "Sobre nós"
     weight = 200
-    url = "/"
+    url = "/Sobre"
 [[menu.main]]
     name = "Meetups"
     identifier = "Meetups"
     weight = 200
-    url = "/static/Meetups"
+    url = "/Meetups"
