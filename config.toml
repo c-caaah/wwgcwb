@@ -43,7 +43,7 @@ publishDir = "docs"
     weight = 200
     url = "/"
 [[menu.main]]
-    name = "Imprint"
-    identifier = "imprint"
+    name = "Meetups"
+    identifier = "Meetups"
     weight = 200
-    url = "/static/imprint"
+    url = "/static/Meetups"
