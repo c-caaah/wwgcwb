@@ -1,5 +1,10 @@
 # wwgcwb
 
+<br />
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/33880852/198421477-4d9b654d-2a5c-4b89-9ef2-5fc098a42b69.png" alt="Logo Women Who Go Curitiba" width="200">
+</div>
+
 [English] repository for site development using hugo :)
 
 Development a site for Women Who Go Curitiba. A community that teaches golang.
